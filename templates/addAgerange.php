@@ -15,10 +15,10 @@
             <div class="row">&nbsp;</div>
             <div class="alert alert-success">
                 <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-                <?php _e("PUBLISHER_ADD_SUCCESS"); ?>
+                <?php _e("AGERANGE_ADD_SUCCESS"); ?>
             </div>
         <?php endif; ?>
-        <h2 class="text-center"><?php _e("PUBLISHER_ADD_HTMLTITLE"); ?></h2>
+        <h2 class="text-center"><?php _e("AGERANGE_ADD_HTMLTITLE"); ?></h2>
         <hr>
         <form class="form-horizontal" role="form" action="../formHandler.php" method="post">
             <div class="form-group">
